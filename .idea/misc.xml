@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sanat/Desktop/Android Studio Projects/Tutorial Projects/RecyclerViews Inside ScrollView/app/src/main/res/layout/activity_main.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/sanat/Desktop/Android Studio Projects/Tutorial Projects/RecyclerViews Inside ScrollView/app/src/main/res/layout/best_seller_layout.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/sanat/Desktop/Android Studio Projects/Tutorial Projects/RecyclerViews Inside ScrollView/app/src/main/res/layout/clothing_layout.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/sanat/Desktop/Android Studio Projects/Tutorial Projects/RecyclerViews Inside ScrollView/app/src/main/res/layout/offer_layout.xml" value="0.2526041666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
